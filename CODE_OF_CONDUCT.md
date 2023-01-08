@@ -23,7 +23,7 @@ community include:
   and learning from the experience
 * Focusing on what is best not just for us as individuals, but for the overall
   community
-
+@write
 Examples of unacceptable behavior include:
 
 * The use of sexualized language or imagery, and sexual attention or advances of
@@ -54,7 +54,7 @@ an individual is officially representing the community in public spaces.
 Examples of representing our community include using an official e-mail address,
 posting via an official social media account, or acting as an appointed
 representative at an online or offline event.
-
+@addsa
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
